@@ -13,7 +13,7 @@ model = load("health_model.pkl")
 
 # App Title
 st.set_page_config(page_title="Arogya AI", layout="centered")
-st.title("🩺 Arogya AI - Your Personal Health Assistant")
+st.title("🩺 SmartRx - Your Personal Health Assistant")
 
 # Sidebar Input Function
 def user_input_features():
